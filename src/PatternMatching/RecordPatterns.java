@@ -1,3 +1,4 @@
+package PatternMatching;
 
 record Product(Integer id,String productName, String  productCategory, Double productPrice){
 }

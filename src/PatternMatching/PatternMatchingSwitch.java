@@ -1,3 +1,7 @@
+package PatternMatching;
+
+import PatternMatching.PatternMatchingInstanceOf;
+
 public class PatternMatchingSwitch {
     public String getDetails(Object object){
         return switch(object){
